@@ -19,7 +19,6 @@ Front-end & Full-Stack Developer — React · Next.js · Node · MongoDB · ML e
 Working as an **SDE Intern (Frontend)** at **PGAGI**, contributing to the consultancy website using **Next.js**. Previously front-end intern at **Healthy Enough** — reengineered React components and helped automate CI/CD rollouts.
 
 ## ⭐ Featured Projects
-> (Click repo names to open — demos & READMEs contain run instructions)
 
 - **[Restaurant-MERN](https://github.com/Darwingamer01/Restaurant-MERN)** — MERN stack restaurant management system (reservations, menu & orders).  
 - **[Personalized-Content-Dashboard](https://github.com/Darwingamer01/personalized-content-dashboard)** — Dashboard with user-specific content recommendations and modern UI.  
@@ -70,7 +69,4 @@ You can view my resume here: *https://drive.google.com/file/d/182U0PuFstedXyh1VY
 If you want a demo of any project or a short walkthrough of the code, DM me or email me — I’ll be happy to walk you through architecture and decisions.
 
 ---
-
-> **Pinned repos suggestion:** Restaurant-MERN, Personalized-Content-Dashboard, AI-Plagiarism-Detector, EmotionAnalyze  
-> (Pin these from your GitHub profile -> Customize your pins.)
 
