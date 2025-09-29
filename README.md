@@ -57,13 +57,37 @@ React · Next.js · JavaScript · TypeScript · Node.js · Express · MongoDB ·
 
 ---
 
-## 📫 Contact & Socials
-- ✉️ Email: **utkarsh11980@gmail.com**  
-- 📱 Phone: **+91 9266962003**
-- 🌐 GitHub: https://github.com/Darwingamer01
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge&link=https://www.linkedin.com/in/utkarsh-choudhary-999965289/)
-- ![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram&style=for-the-badge&link=https://www.instagram.com/utkarsh_choudhary_03/)
-- ![X (Twitter)](https://img.shields.io/badge/Twitter-Follow-black?logo=twitter&style=for-the-badge&link=https://x.com/UChoudhary85651)
+## 📫 Connect with me  
+
+<div align="center">
+
+<a href="https://github.com/Darwingamer01" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/utkarsh-choudhary-999965289/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:utkarsh11980@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/UChoudhary85651" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/utkarsh_choudhary_03/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+</a>
+
+</div>
+
+---
+
+✉️ **Email**: utkarsh11980@gmail.com  
+📱 **Phone**: +91 9266962003  
+🌐 **Portfolio/Linktree**: [linktr.ee/UtkarshChoudhary](https://linktr.ee/UtkarshChoudhary)
 
 ---
 
