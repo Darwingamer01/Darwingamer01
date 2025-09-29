@@ -5,7 +5,7 @@
 Front-end & Full-Stack Developer — React · Next.js · Node · MongoDB · ML experiments
 
 <!-- Hero GIF (change URL if you prefer a different gif) -->
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="coding gif" width="680"/>
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="coding gif" width="700"/>
 
 </div>
 
