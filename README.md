@@ -35,11 +35,17 @@ React · Next.js · JavaScript · TypeScript · Node.js · Express · MongoDB ·
 
 ---
 
-## 📈 Quick stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darwingamer01&layout=compact)](https://github.com/Darwingamer01)
-![LeetCode Problems Solved](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=Problems%20Solved&query=solved&url=https://leetcode-stats-api.herokuapp.com/choudhary_2611)
-![LeetCode Ranking](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=Ranking&query=ranking&url=https://leetcode-stats-api.herokuapp.com/choudhary_2611)
+## 📈 GitHub stats
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darwingamer01&layout=compact)](https://github.com/Darwingamer01)
+</div>
 
+---
+
+## 📈 Leetcode stats
+<div align="center">
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/choudhary_2611?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/choudhary_2611/)
+</div>
 
 ---
 
