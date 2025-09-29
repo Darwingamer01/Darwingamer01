@@ -10,6 +10,10 @@ Front-end & Full-Stack Developer — React · Next.js · Node · MongoDB · ML e
 </div>
 
 ---
+![GitHub followers](https://img.shields.io/github/followers/Darwingamer01?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Darwingamer01?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Darwingamer01&label=Profile%20views&color=0e75b6&style=flat)
+---
 
 ## 🔭 Current
 Working as an **SDE Intern (Frontend)** at **PGAGI**, contributing to the consultancy website using **Next.js**. Previously front-end intern at **Healthy Enough** — reengineered React components and helped automate CI/CD rollouts.
@@ -26,10 +30,6 @@ Working as an **SDE Intern (Frontend)** at **PGAGI**, contributing to the consul
 
 > 🔗 All project READMEs include setup instructions and screenshots — check the pinned repos for quick demos.
 
----
-![GitHub followers](https://img.shields.io/github/followers/Darwingamer01?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Darwingamer01?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=Darwingamer01&label=Profile%20views&color=0e75b6&style=flat)
 ---
 
 ## 🛠️ Tech & Tools
