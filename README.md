@@ -50,6 +50,9 @@ React · Next.js · JavaScript · TypeScript · Node.js · Express · MongoDB ·
 - 🌐 GitHub: https://github.com/Darwingamer01  
 - 📸 Instagram: https://www.instagram.com/utkarsh_choudhary_03  
 - ✨ X: https://x.com/UChoudhary85651
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge&link=https://www.linkedin.com/in/utkarsh-choudhary-999965289/)
+![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram&style=for-the-badge&link=https://www.instagram.com/utkarsh_choudhary_03/)
+![X (Twitter)](https://img.shields.io/badge/Twitter-Follow-black?logo=twitter&style=for-the-badge&link=https://x.com/UChoudhary85651)
 
 ---
 
