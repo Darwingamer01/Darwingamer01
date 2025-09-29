@@ -37,7 +37,7 @@ React · Next.js · JavaScript · TypeScript · Node.js · Express · MongoDB ·
 
 ## 📈 Quick stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darwingamer01&layout=compact)](https://github.com/Darwingamer01)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Darwingamer01&show_icons=true&count_private=true&line_height=24)](https://github.com/Darwingamer01)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/choudhary_2611?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/choudhary_2611/)
 
 ---
 
