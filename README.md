@@ -69,6 +69,10 @@ React · Next.js · JavaScript · TypeScript · Node.js · Express · MongoDB ·
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;
+<a href="https://leetcode.com/u/choudhary_2611/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;
 <a href="mailto:utkarsh11980@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40" height="40"/>
 </a>
@@ -82,9 +86,6 @@ React · Next.js · JavaScript · TypeScript · Node.js · Express · MongoDB ·
 </a>
 
 </div>
-
----
-
 ✉️ **Email**: utkarsh11980@gmail.com  
 📱 **Phone**: +91 9266962003  
 🌐 **Portfolio/Linktree**: [linktr.ee/UtkarshChoudhary](https://linktr.ee/UtkarshChoudhary)
