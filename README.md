@@ -27,6 +27,10 @@ Working as an **SDE Intern (Frontend)** at **PGAGI**, contributing to the consul
 > 🔗 All project READMEs include setup instructions and screenshots — check the pinned repos for quick demos.
 
 ---
+![GitHub followers](https://img.shields.io/github/followers/Darwingamer01?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Darwingamer01?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Darwingamer01&label=Profile%20views&color=0e75b6&style=flat)
+---
 
 ## 🛠️ Tech & Tools
 React · Next.js · JavaScript · TypeScript · Node.js · Express · MongoDB · Flask · Docker · Vercel / Render · GitHub Actions · TailwindCSS · Jest
