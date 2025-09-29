@@ -1,10 +1,9 @@
 <div align="center">
 
-# Hi — I’m Utkarsh 👋  
+# Hi - I’m Utkarsh 👋  
 **Final-year B.Tech (KIET)** • SDE Intern @ **PGAGI** (Frontend, Next.js)  
-Front-end & Full-Stack Developer — React · Next.js · Node · MongoDB · ML experiments
+Front-end & Full-Stack Developer - React · Next.js · Node · MongoDB · ML experiments
 
-<!-- Hero GIF (change URL if you prefer a different gif) -->
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="coding gif" width="700"/>
 
 </div>
@@ -16,18 +15,18 @@ Front-end & Full-Stack Developer — React · Next.js · Node · MongoDB · ML e
 ---
 
 ## 🔭 Current
-Working as an **SDE Intern (Frontend)** at **PGAGI**, contributing to the consultancy website using **Next.js**. Previously front-end intern at **Healthy Enough** — reengineered React components and helped automate CI/CD rollouts.
+Working as an **SDE Intern (Frontend)** at **PGAGI**, contributing to the consultancy website using **Next.js**. Previously front-end intern at **Healthy Enough** - reengineered React components and helped automate CI/CD rollouts.
 
 ## ⭐ Featured Projects
 
-- **[Restaurant-MERN](https://github.com/Darwingamer01/Restaurant-MERN)** — MERN stack restaurant management system (reservations, menu & orders).  
-- **[Personalized-Content-Dashboard](https://github.com/Darwingamer01/personalized-content-dashboard)** — Dashboard with user-specific content recommendations and modern UI.  
-- **[AI-Plagiarism-Detector](https://github.com/Darwingamer01/AI-Plagiarism-Detector)** — NLP & ML based plagiarism detection tool with UI.  
-- **[EmotionAnalyze](https://github.com/Darwingamer01/EmotionAnalyze)** — React + Flask emotion-detection demo.  
-- **[Artistly](https://github.com/Darwingamer01/Artistly)** — Artist marketplace built with Next.js.  
-- **[letz-home](https://github.com/Darwingamer01/letz-home)** — Next.js responsive app.
+- **[Restaurant-MERN](https://github.com/Darwingamer01/Restaurant-MERN)** - MERN stack restaurant management system (reservations, menu & orders).  
+- **[Personalized-Content-Dashboard](https://github.com/Darwingamer01/personalized-content-dashboard)** - Dashboard with user-specific content recommendations and modern UI.  
+- **[AI-Plagiarism-Detector](https://github.com/Darwingamer01/AI-Plagiarism-Detector)** - NLP & ML based plagiarism detection tool with UI.  
+- **[EmotionAnalyze](https://github.com/Darwingamer01/EmotionAnalyze)** - React + Flask emotion-detection demo.  
+- **[Artistly](https://github.com/Darwingamer01/Artistly)** - Artist marketplace built with Next.js.  
+- **[letz-home](https://github.com/Darwingamer01/letz-home)** - Next.js responsive app.
 
-> 🔗 All project READMEs include setup instructions and screenshots — check the pinned repos for quick demos.
+> 🔗 All project READMEs include setup instructions and screenshots - check the pinned repos for quick demos.
 
 ---
 
@@ -60,13 +59,13 @@ You can view my resume here: *https://drive.google.com/file/d/182U0PuFstedXyh1VY
 ## ✅ How I work
 - I write modular, reusable UI components and keep code readable and documented.  
 - I like small, frequent commits and clear PRs.  
-- I optimize for performance and accessibility when shipping front-end features.  
+- I optimise for performance and accessibility when shipping front-end features.  
 - I follow Agile workflows and collaborate via PR reviews and CI/CD pipelines.
 
 ---
 
 ## 🎯 Want a walkthrough?
-If you want a demo of any project or a short walkthrough of the code, DM me or email me — I’ll be happy to walk you through architecture and decisions.
+If you want a demo of any project or a short walkthrough of the code, DM me or email me - I’ll be happy to walk you through architecture and decisions.
 
 ---
 
