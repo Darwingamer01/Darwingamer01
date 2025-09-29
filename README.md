@@ -86,6 +86,9 @@ React · Next.js · JavaScript · TypeScript · Node.js · Express · MongoDB ·
 </a>
 
 </div>
+
+---
+
 ✉️ **Email**: utkarsh11980@gmail.com  
 📱 **Phone**: +91 9266962003  
 🌐 **Portfolio/Linktree**: [linktr.ee/UtkarshChoudhary](https://linktr.ee/UtkarshChoudhary)
