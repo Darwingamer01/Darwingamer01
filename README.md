@@ -33,12 +33,11 @@ Working as an **SDE Intern** at **PGAGI**, contributing to the consultancy websi
 ---
 
 ## 🛠️ Tech & Tools
-**Languages:** JavaScript · TypeScript · Python · C++  
-**Frameworks:** React · Next.js · Node.js · Express · Flask  
-**Databases:** MongoDB · SQL  
-**DevOps:** Docker · GitHub Actions · Vercel · Render  
-**Styling:** TailwindCSS · Bootstrap  
-**Testing:** Jest · Cypress 
+**Languages:** Python · C · C++ · JavaScript · TypeScript · SQL · HTML5 · CSS3 · Bash  
+**Frameworks:** React · Next.js · Node.js · Express · TailwindCSS · Bootstrap · Vite  
+**Databases & Tools:** MongoDB · REST API · Postman · WebSockets · Google Analytics  
+**DevOps / Cloud:** AWS (EC2, S3) · Docker · Vercel · Render · CI/CD · Git · GitHub Actions  
+**Testing & Practices:** Jest · Cypress · Unit/Integration Testing · Agile · Version Control  
 
 ---
 
