@@ -96,7 +96,7 @@ React · Next.js · JavaScript · TypeScript · Node.js · Express · MongoDB ·
 ---
 
 ## 📄 Resume
-You can view my resume here: *https://drive.google.com/file/d/182U0PuFstedXyh1VYBW3LCjD02o4pWKW/view?usp=drive_link*  
+You can view my resume here: *[https://drive.google.com/file/d/182U0PuFstedXyh1VYBW3LCjD02o4pWKW/view?usp=drive_link](https://drive.google.com/file/d/1d22LbyITXEIar6Q7Teyn2CSWWy7Pxowj/view?usp=sharing)*  
 
 ---
 
