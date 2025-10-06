@@ -15,7 +15,7 @@ Front-end & Full-Stack Developer - React · Next.js · Node · MongoDB · ML exp
 ---
 
 ## 🔭 Current
-Working as an **SDE Intern (Frontend)** at **PGAGI**, contributing to the consultancy website using **Next.js**. Previously front-end intern at **Healthy Enough** - reengineered React components and helped automate CI/CD rollouts.
+Working as an **SDE Intern** at **PGAGI**, contributing to the consultancy website using **Next.js**. Previously front-end intern at **Healthy Enough** - reengineered React components and helped automate CI/CD rollouts.
 
 ## ⭐ Featured Projects
 
@@ -25,13 +25,20 @@ Working as an **SDE Intern (Frontend)** at **PGAGI**, contributing to the consul
 - **[EmotionAnalyze](https://github.com/Darwingamer01/EmotionAnalyze)** - React + Flask emotion-detection demo.  
 - **[Artistly](https://github.com/Darwingamer01/Artistly)** - Artist marketplace built with Next.js.  
 - **[letz-home](https://github.com/Darwingamer01/letz-home)** - Next.js responsive app.
+- **[MeetPro](https://github.com/Darwingamer01/meetPro)** — Real-time collaboration app (chat, video, file sharing) built using **WebSockets** and **JWT Auth**.  
+- **[IntelAI](https://github.com/Darwingamer01/intelai)** — AI-driven text analysis and summarization platform using **Flask + OpenAI API**.
 
 > 🔗 All project READMEs include setup instructions and screenshots - check the pinned repos for quick demos.
 
 ---
 
 ## 🛠️ Tech & Tools
-React · Next.js · JavaScript · TypeScript · Node.js · Express · MongoDB · Flask · Docker · Vercel / Render · GitHub Actions · TailwindCSS · Jest
+**Languages:** JavaScript · TypeScript · Python · C++  
+**Frameworks:** React · Next.js · Node.js · Express · Flask  
+**Databases:** MongoDB · SQL  
+**DevOps:** Docker · GitHub Actions · Vercel · Render  
+**Styling:** TailwindCSS · Bootstrap  
+**Testing:** Jest · Cypress 
 
 ---
 
