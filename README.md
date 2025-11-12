@@ -102,7 +102,7 @@ Working as an **SDE Intern** at **PGAGI**, contributing to the consultancy websi
 ---
 
 ## 📄 Resume
-You can view my resume here: *[https://drive.google.com/file/d/182U0PuFstedXyh1VYBW3LCjD02o4pWKW/view?usp=drive_link](https://drive.google.com/file/d/1d22LbyITXEIar6Q7Teyn2CSWWy7Pxowj/view?usp=sharing)*  
+You can view my resume here: https://drive.google.com/file/d/1qW1CIpcq7VeivV5MqxZkoPo1UAGA6HLU/view?usp=sharing
 
 ---
 
