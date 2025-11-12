@@ -41,17 +41,6 @@ Working as an **SDE Intern** at **PGAGI**, contributing to the consultancy websi
 
 ---
 
-## 📈 GitHub stats
-<div align="center">
-  <a href="https://github.com/Darwingamer01">
-    <img src="https://github-readme-stats.vercel.app/api?username=Darwingamer01&show_icons=true&count_private=true&line_height=24"
-         alt="GitHub stats"
-         style="max-width:100%;height:auto;" />
-  </a>
-</div>
-
----
-
 ## 📈 Leetcode stats
 <div align="center">
   <a href="https://leetcode.com/u/choudhary_2611/" target="_blank" rel="noopener noreferrer">
