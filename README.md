@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi - I’m Utkarsh 👋  
-**Final-year B.Tech (KIET)** • SDE Intern @ **PGAGI** (Frontend, Next.js)  
+**Final-year B.Tech (KIET)** • SDE Intern @ **PGAGI** 
 Front-end & Full-Stack Developer - React · Next.js · Node · MongoDB · ML experiments
 
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="coding gif" width="700"/>
