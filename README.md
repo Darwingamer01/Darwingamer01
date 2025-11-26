@@ -19,7 +19,7 @@ Working as an **SDE Intern** at **PGAGI** (Sept 2025 – Present), building full
 
 ## ⭐ Featured Projects
 
-- **[Personalized-Content-Dashboard](https://github.com/Darwingamer01/personalized-content-dashboard)** - Full-stack dashboard with JWT auth, Redis caching, and MongoDB. Built for 150+ users with 45% faster API performance.  
+- **[Personalized-Content-Dashboard](https://github.com/Darwingamer01/personalized-content-dashboard)** - Full-stack dashboard with JWT auth, Redis caching, and MongoDB.  
 - **[MeetPro](https://github.com/Darwingamer01/meetPro)** - Real-time collaboration platform with chat, video conferencing, and file sharing using WebSockets, Socket.io, and Docker.  
 - **[Restaurant-MERN](https://github.com/Darwingamer01/Restaurant-MERN)** - MERN stack restaurant management system with reservations, menu, and order tracking.  
 - **[Plagiarism-Similarity-Detection](https://github.com/Darwingamer01/Plagiarism-Similarity-Detection-)** - Advanced plagiarism detection tool using NLP, ML algorithms, and similarity scoring.  
