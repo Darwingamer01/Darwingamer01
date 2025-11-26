@@ -26,9 +26,6 @@ Working as an **SDE Intern** at **PGAGI** (Sept 2025 – Present), building full
 - **[Cafe-Management-System](https://github.com/Darwingamer01/Cafe-Management-System)** - Java-based cafe management system with JSP, Servlets, JDBC, and MySQL for order and inventory management.  
 - **[AI-Plagiarism-Detector](https://github.com/Darwingamer01/AI-Plagiarism-Detector)** - NLP & ML based plagiarism detection tool with interactive UI.  
 - **[IntelAI](https://github.com/Darwingamer01/intelai)** - AI-powered text analysis and summarization platform using Flask and OpenAI API.  
-- **[EmotionAnalyze](https://github.com/Darwingamer01/EmotionAnalyze)** - React + Flask emotion-detection demo with real-time analysis.  
-- **[Artistly](https://github.com/Darwingamer01/Artistly)** - Artist marketplace platform built with Next.js and modern design.  
-- **[letz-home](https://github.com/Darwingamer01/letz-home)** - Responsive Next.js application with optimized routing.
 
 > 🔗 All project READMEs include setup instructions and screenshots - check the pinned repos for quick demos.
 
