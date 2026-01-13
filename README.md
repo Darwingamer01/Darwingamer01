@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi - I'm Utkarsh 👋  
-**Final-year B.Tech IT (KIET)** • SDE Intern @ **PGAGI**  
-Full-Stack Developer - React · Next.js · Node · MongoDB · ML · TypeScript
+# Hi – I'm Utkarsh 👋  
+**Final-year B.Tech IT (KIET)** • **SDE Intern @ PGAGI**  
+Full-Stack Developer — React · Next.js · Node.js · Express · TypeScript · Python · FastAPI · ML
 
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="coding gif" width="700"/>
 
@@ -14,38 +14,90 @@ Full-Stack Developer - React · Next.js · Node · MongoDB · ML · TypeScript
 ![Profile views](https://komarev.com/ghpvc/?username=Darwingamer01&label=Profile%20views&color=0e75b6&style=flat)
 ---
 
-## 🔭 Current
-Working as an **SDE Intern** at **PGAGI** (Sept 2025 – Present), building full-stack TypeScript components and integrating Twilio services for real-time communication. Previously **Front-End Intern** at **Healthy Enough** (May – Aug 2025), where I refactored React architecture and automated CI/CD pipelines.
+## 🔭 Current Work (PGAGI — SDE Intern)
+**September 2025 – Present**
 
-## ⭐ Featured Projects
+I am currently working as a **Software Development Engineer Intern at PGAGI**, contributing across **client projects, internal company tools, and the Toingg SaaS product**.
 
-- **[Personalized-Content-Dashboard](https://github.com/Darwingamer01/personalized-content-dashboard)** - Full-stack dashboard with JWT auth, Redis caching, and MongoDB.  
-- **[MeetPro](https://github.com/Darwingamer01/meetPro)** - Real-time collaboration platform with chat, video conferencing, and file sharing using WebSockets, Socket.io, and Docker.  
-- **[Restaurant-MERN](https://github.com/Darwingamer01/Restaurant-MERN)** - MERN stack restaurant management system with reservations, menu, and order tracking.  
-- **[Plagiarism-Similarity-Detection](https://github.com/Darwingamer01/Plagiarism-Similarity-Detection-)** - Advanced plagiarism detection tool using NLP, ML algorithms, and similarity scoring.  
-- **[Cafe-Management-System](https://github.com/Darwingamer01/Cafe-Management-System)** - Java-based cafe management system with JSP, Servlets, JDBC, and MySQL for order and inventory management.  
-- **[AI-Plagiarism-Detector](https://github.com/Darwingamer01/AI-Plagiarism-Detector)** - NLP & ML based plagiarism detection tool with interactive UI.  
-- **[IntelAI](https://github.com/Darwingamer01/intelai)** - AI-powered text analysis and summarization platform using Flask and OpenAI API.  
+### What I actually do:
+- Deliver **client-facing projects** using **React, Next.js, TypeScript, Node.js, Express**, consistently meeting deadlines and requirements.
+- Build and maintain **internal tools** used by **Marketing and HR teams**, improving operational workflows.
+- Work on the **Toingg SaaS product**, contributing to **core product features**, redesigning key user flows, and improving the overall platform experience.
+- Develop backend services using **Node.js, Express, Python, and FastAPI**, integrating APIs and business logic.
+- Take **end-to-end ownership** of features with strong focus on **code quality, testing, performance, and polish**.
+- Collaborate closely with the product and engineering team while shipping **production-ready features**.
 
-> 🔗 All project READMEs include setup instructions and screenshots - check the pinned repos for quick demos.
+### Previous Experience
+**Front-End Intern — Healthy Enough (May 2025 – August 2025)**
+- Refactored React architecture using Tailwind CSS and lazy loading.
+- Automated CI/CD pipelines for faster and more reliable deployments.
+- Improved SEO and performance metrics through Lighthouse optimizations.
+
+---
+
+## ⭐ Featured Projects (ALL PROJECTS KEPT)
+
+### 🔹 Personalized Content Dashboard  
+- **Live:** https://personalized-content-dashboard-2st6oax61.vercel.app/  
+- **GitHub:** https://github.com/Darwingamer01/personalized-content-dashboard  
+
+---
+
+### 🔹 MeetPro  
+- **Live:** https://meetpro-siser-pratap.vercel.app/  
+- **GitHub:** https://github.com/Darwingamer01/meetPro  
+Real-time collaboration platform with **chat, video conferencing, and file sharing** using **WebSockets, Socket.io, Docker, and CI/CD**.
+
+---
+
+### 🔹 Plagiarism Similarity Detection  
+- **Live:** https://www.plagiarism-detector.in/  
+- **GitHub:** https://github.com/Darwingamer01/Plagiarism-Similarity-Detection-  
+AI-based plagiarism detection system using **semantic embeddings, FAISS vector search, and NLP**, optimized for contextual similarity detection.
+
+---
+
+### 🔹 Libro — Personal Library Reimagined  
+- **GitHub:** https://github.com/Darwingamer01/libro-book-management-  
+A modern **full-stack book management system** with secure authentication and immersive UI.
+
+---
+
+### 🔹 Restaurant MERN  
+- **GitHub:** https://github.com/Darwingamer01/Restaurant-MERN  
+MERN stack restaurant management system with reservations, menu handling, and order tracking.
+
+---
+
+### 🔹 Cafe Management System  
+- **GitHub:** https://github.com/Darwingamer01/Cafe-Management-System  
+Java-based system using **JSP, Servlets, JDBC, and MySQL** for order and inventory management.
+
+---
+
+### 🔹 IntelAI  
+- **GitHub:** https://github.com/Darwingamer01/intelai  
+AI-powered text analysis and summarization platform built using **Flask and OpenAI API**.
+
+> 🔗 All repositories include setup instructions and screenshots. Check pinned repos for quick demos.
 
 ---
 
 ## 🛠️ Tech & Tools
+
 **Languages:** Python · C · C++ · JavaScript · TypeScript · SQL · HTML5 · CSS3 · Bash  
-**Frameworks:** React · Next.js · Node.js · Express · TailwindCSS · Bootstrap · Vite  
-**Databases & Tools:** MongoDB · Redis · REST API · Postman · WebSockets · Socket.io · Google Analytics  
-**DevOps / Cloud:** Docker · Vercel · Render · CI/CD · Git · GitHub Actions  
-**Testing & Practices:** Jest · Cypress · Unit/Integration Testing · Responsive Design · Agile Methodologies  
+**Frameworks & Libraries:** React · Next.js · Node.js · Express · FastAPI · TailwindCSS · Bootstrap · Vite  
+**Data & ML:** FAISS · Semantic Embeddings · Text Similarity · NLP  
+**Databases & APIs:** PostgreSQL · MongoDB · Redis · REST APIs · WebSockets · Socket.io  
+**DevOps / Cloud:** Docker · Git · GitHub Actions · CI/CD · Vercel · Render  
+**Testing & Practices:** Jest · Cypress · Unit & Integration Testing · Responsive Design · Agile  
 
 ---
 
 ## 📈 LeetCode Stats
 <div align="center">
-  <a href="https://leetcode.com/u/choudhary_2611/" target="_blank" rel="noopener noreferrer">
-    <img src="https://leetcard.jacoblin.cool/choudhary_2611?theme=dark&font=baloo&ext=heatmap"
-         alt="LeetCode Stats — choudhary_2611"
-         style="max-width:100%;height:auto;border-radius:8px;" />
+  <a href="https://leetcode.com/u/choudhary_2611/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/choudhary_2611?theme=dark&font=baloo&ext=heatmap" />
   </a>
 </div>
 
@@ -53,63 +105,24 @@ Working as an **SDE Intern** at **PGAGI** (Sept 2025 – Present), building full
 
 ## 🎓 Education
 **KIET Group of Institutions, Ghaziabad** (2022 – 2026)  
-B.Tech in Information Technology 
-
----
-
-## 📫 Connect with me  
-
-<div align="center">
-
-<a href="https://github.com/Darwingamer01" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/utkarsh-choudhary-999965289/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/choudhary_2611/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:utkarsh11980@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/UChoudhary85651" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/utkarsh_choudhary_03/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
-</a>
-
-</div>
-
----
-
-✉️ **Email**: [utkarsh11980@gmail.com](mailto:utkarsh11980@gmail.com)  
-📱 **Phone**: +91 9266962003  
-🌐 **Portfolio/Linktree**: [linktr.ee/UtkarshChoudhary](https://linktr.ee/UtkarshChoudhary)
+B.Tech in Information Technology
 
 ---
 
 ## 📄 Resume
-View my resume: [Google Drive](https://drive.google.com/file/d/1qW1CIpcq7VeivV5MqxZkoPo1UAGA6HLU/view?usp=sharing)
+👉 https://drive.google.com/file/d/1SJONlsHaYGABkeE_mkCf9Zozcft9bW88/view?usp=sharing
 
 ---
 
-## ✅ How I Work
-- Build modular, reusable UI components with clean, documented code
-- Optimize for performance, accessibility, and responsive design
-- Follow Agile methodologies with frequent commits and clear PRs
-- Collaborate through code reviews and CI/CD automation
-- Focus on shipping production-ready features efficiently
+## 📫 Connect with Me
+- **GitHub:** https://github.com/Darwingamer01  
+- **LinkedIn:** https://www.linkedin.com/in/utkarsh-choudhary-999965289/  
+- **LeetCode:** https://leetcode.com/u/choudhary_2611/  
+- **Email:** utkarsh11980@gmail.com  
+- **Phone:** +91 9266962003  
+- **Linktree:** https://linktr.ee/UtkarshChoudhary  
 
 ---
 
 ## 🎯 Want a Walkthrough?
-If you want a demo of any project or a walkthrough of the code architecture, DM me or email me - I'll be happy to explain my design decisions and implementation details.
-
----
+If you want a demo or deep dive into any project or architecture decision, feel free to DM or email me.
